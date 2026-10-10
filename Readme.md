@@ -1,4 +1,4 @@
-# Fundamental Booster:
+# PR.1 Fundamental Booster:
 
 The Interactive Personal Data Collector is a Python-based project that collects the user's name, age, height, and favourite number.
 
