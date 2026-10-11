@@ -8,4 +8,5 @@ It displays the entered information along with its data type and object identity
 
 This project demonstrates basic Python concepts such as user input, variables, type conversion, built-in functions, and arithmetic operations.
 
+## Output:
 ![Output:](Output.png)
